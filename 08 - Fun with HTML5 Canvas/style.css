@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url(./1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+ 
+}
+
+
+canvas {
+    background-color: whitesmoke;
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
