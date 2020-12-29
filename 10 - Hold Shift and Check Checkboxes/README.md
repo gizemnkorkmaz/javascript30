@@ -1,0 +1,1 @@
+You can see the **Demo [here](https://gizemnkorkmaz.github.io/javascript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)**
