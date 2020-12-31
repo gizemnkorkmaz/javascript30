@@ -1,0 +1,1 @@
+You can see the **Demo [here](https://gizemnkorkmaz.github.io/javascript30/12%20-%20Key%20Sequence%20Detection%20(KONAMI%20CODE)/index.html)**
