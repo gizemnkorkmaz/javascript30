@@ -1,0 +1,2 @@
+You can see the **Demo [here](https://gizemnkorkmaz.github.io/javascript30/13%20-%20Slide%20in%20on%20Scroll/index.html)**
+The article was traslated by me. You can **read it [here](https://gorgondergisi.com/insani-tanimlamak-philip-k-dickin-androidler-elektrikli-koyun-dusler-mi-romaninda-doga-ve-yapay-zeka/)**
