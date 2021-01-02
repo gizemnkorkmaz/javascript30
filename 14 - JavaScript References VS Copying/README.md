@@ -1,0 +1,1 @@
+You can see the **Demo [here](https://gizemnkorkmaz.github.io/javascript30/14%20-%20JavaScript%20References%20VS%20Copying/index.html)**
