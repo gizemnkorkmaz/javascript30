@@ -1,0 +1,1 @@
+You can see the **Demo [here](https://gizemnkorkmaz.github.io/javascript30/15%20-%20LocalStorage/index.html)**
